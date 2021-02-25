@@ -1,2 +1,2 @@
 # JWDFinalProject.2
-В DataBasesAppTrainer3.* добавлен функционал по сравнению с проверенной базой данных db2.png
+В DataBasesAppTrainer7.mwb (DataBasesAppTrainer11.pdf) добавлен функционал по сравнению с последней проверенной базой, исправлены ошибки 
